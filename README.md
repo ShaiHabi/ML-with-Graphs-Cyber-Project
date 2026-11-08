@@ -98,3 +98,13 @@ python scripts/datasets_loading_preprocessing.py
 
 This step only needs to be run once.
 
+--- 
+---
+### License
+
+The original source code in this repository is licensed under the MIT License.
+
+MalNet-Tiny, MalNet-Tiny-Common, and MalNet-Tiny-Distinct are subject to their respective providers’ licenses and terms:
+
+- [MalNet-Tiny — PyTorch Geometric documentation](https://pytorch-geometric.readthedocs.io/en/stable/generated/torch_geometric.datasets.MalNetTiny.html)
+- [Common and Distinct — Hugging Face dataset repository](https://huggingface.co/datasets/ngoctnq/malnet-features)
